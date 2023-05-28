@@ -16,5 +16,5 @@ This script is recommended for Ubuntu, Kali, Parrot and Debian and derivatives.
 Use:
 1) Chmod a+x any_hawks.sh
 2) bash any_hawks.sh
-Or if you prefer.
+Or if you prefer
 3) ./any_hawks.sh
